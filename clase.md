@@ -20,12 +20,12 @@ En un sistema, se tienen las siguientes variables y ecuaciones:
 
 Las ecuaciones de estado y de salida se representan como:
 
-\[
+$$
 \mathbf{X}(k+1) = \mathbf{A} \mathbf{X}(k) + \mathbf{B} \mathbf{u}(k)
-\]
-\[
+$$
+$$
 \mathbf{y}(k) = \mathbf{C} \mathbf{X}(k) + \mathbf{D} \mathbf{u}(k)
-\]
+$$
 
 Donde:
 - **A** es la matriz de estados.
