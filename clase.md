@@ -18,38 +18,6 @@ En un sistema, se tienen las siguientes variables y ecuaciones:
 - **Salidas**: \( y_1(k), y_2(k), ..., y_m(k) \)
 - **Variables de Estado**: \( x_1(k), x_2(k), ..., x_n(k) \)
 
-X(k+1)=[ 
-0
-− 
-M
-K
-​
- 
-​
-  
-1
-− 
-M
-B
-​
- 
-​
- ]∗X(k)+[ 
-0
-M
-1
-​
- 
-​
- ]∗u(k)
-y(k)=[ 
-1
-​
-  
-0
-​
- ]∗X(k)
-
 Las ecuaciones de estado y de salida se representan como:
 
 \[
